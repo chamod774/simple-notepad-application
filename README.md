@@ -19,7 +19,7 @@ Student ID: s16215 / 2021s18843
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/chamod774/simple-notepad-application
+   git clone https://github.com/chamod774/simple-notepad-application.git
    cd simple-notepad
    ```
 2. **Compile the Application**
