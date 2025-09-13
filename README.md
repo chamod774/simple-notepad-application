@@ -28,9 +28,9 @@ Make sure Java is installed and added to your system’s PATH.
    javac SimpleNotepad.java
    ```
 3. **Run the Application**
-  ```bash
-  java SimpleNotepad
-  ```
+   ```bash
+   java SimpleNotepad
+   ```
 
 ## 📝 Features
 
